@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d7a6f,100:3cc4b3&height=180&section=header&text=TechX%20·%20Ceuma&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Oxygeni%20Hub%20%2B%20Universidade%20Ceuma%20·%20São%20Luís%20-%20MA&descAlignY=58&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=3CC4B3&center=true&vCenter=true&width=640&lines=Design+Thinking+·+Ágil+·+Cloud+·+DevOps;Da+ideia+ao+produto%2C+versionando+tudo+no+GitHub;git+commit+-m+%22mais+um+projeto+no+ar%22" alt="typing" />
+<p><code>Design Thinking · Ágil · Cloud · DevOps</code></p>
 
 <br/>
 
-![GitHub Education](https://img.shields.io/badge/GitHub-Education-0d1117?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Education](https://img.shields.io/badge/GitHub-Education-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Classroom](https://img.shields.io/badge/GitHub-Classroom-0d7a6f?style=for-the-badge&logo=github&logoColor=white)
 ![Codespaces](https://img.shields.io/badge/Codespaces-pronto-3cc4b3?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Copilot](https://img.shields.io/badge/Copilot-habilitado-6e40c9?style=for-the-badge&logo=githubcopilot&logoColor=white)
